@@ -19,7 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-## ⚙️ &nbsp;GitHub Analytics
+<br> <br>
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-braga-c&layout=compact&theme=vision-friendly-dark" alt="Guilherme's most languages"/>
