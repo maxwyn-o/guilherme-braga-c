@@ -1,6 +1,5 @@
 <img align="right" src="https://media.giphy.com/media/cyN7ftaRmR6QvXXjlJ/giphy.gif" height="400em" />
 <h1 align="left">What's up <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 <br> <br>
 
