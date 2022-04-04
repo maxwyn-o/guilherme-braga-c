@@ -4,7 +4,7 @@
 <br> <br>
 
 - 👀 I’m interested in OpenSource Projects
-- 🌱 I’m currently learning Node.JS
+- 🌱 I’m currently learning React with Typescript
 - 💞️ I’m looking to collaborate on environmental actions
 
 <br> <br>
