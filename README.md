@@ -4,7 +4,7 @@
 
 - Sou fascinado em sistemas operacionais 😶‍🌫️;
 - Vivo por aprender a criar algo cada vez melhor 😊;
-- Foco em web .
+- Foco em web 🎯.
 
   
 </br>
