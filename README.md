@@ -1,28 +1,41 @@
-<img align="right" src="https://media.giphy.com/media/cyN7ftaRmR6QvXXjlJ/giphy.gif" height="400em" />
-<h1 align="left">What's up <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme</h1>
+### Hi there! 👋   
 
-<br> <br>
+## Sobre mim ℹ️
 
-- 👀 I’m interested in OpenSource Projects
-- 🌱 I’m currently learning React with Typescript
-- 💞️ I’m looking to collaborate on environmental actions
+- Sou fascinado em sistemas operacionais 😶‍🌫️;
+- Vivo por aprender a criar algo cada vez melhor 😊;
+- Foco em web .
 
-<br> <br>
+  
+</br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-<br>
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+## Meus xodós
 
 
-<br> <br>
+### Domino:
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-braga-c&layout=compact&theme=vision-friendly-dark" alt="Guilherme's most languages"/>
-</p>
+ ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+ ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+ ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+ ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+ ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+ 
+ 
+ ### Aprendendo:
+ 
+ ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+ ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+ 
+ ### OS
+![](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square)
 
-<br><br>
+ 
+</br>
+
+
+<div align="center">
+  <a href="https://github.com/guilherme-braga-c">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-braga-c&theme=chartreuse-dark&custom_title=Meus%20status&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-braga-c&theme=chartreuse-dark&langs_count=8&hide=html&layout=compact&custom_title=Linguagens%20mais%20usadas"/>
+</div>
