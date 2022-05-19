@@ -1,4 +1,4 @@
-### E aí? <img style="width: 27px; height: 27px;" src="https://i.imgur.com/iR3J021.gif" />
+### E aí? 
 
 ## Sobre mim ℹ️
 
